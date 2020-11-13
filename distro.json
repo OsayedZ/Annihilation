@@ -1,0 +1,28 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "776810424322490418",
+        "smallImageText": "Annihilation Launcher",
+        "smallImageKey": "icon"
+    },
+    "rss": "",
+    "servers": [
+        {
+            "id": "Annihilation",
+            "name": "Annihilation",
+            "description": "The Official Annihilation Minecraft Server",
+            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+            "version": "1.0.0",
+            "address": "localhost",
+            "minecraftVersion": "1.14.4",
+	    "discord": {
+        	"shortId": "Annihilation",
+	        "largeImageText": "Annihilation Server",
+	        "largeImageKey": "icon"
+	    },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": []
+        }
+    ]
+}
