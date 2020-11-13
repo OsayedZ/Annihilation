@@ -14,7 +14,7 @@
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
             "version": "1.0.0",
             "address": "localhost",
-            "minecraftVersion": "1.14.4",
+            "minecraftVersion": "1.12.2",
 	    "discord": {
         	"shortId": "Annihilation",
 	        "largeImageText": "Annihilation Server",
